@@ -55,7 +55,7 @@ Note: Tests will run in parallel by default.
 
 ## Report
 
-![Last Run Report](<CleanShot 2024-10-08 at 12.41.46@2x.png>)
+![Last Run Report](/images/report-2024-10-08.png)
 
 ## Additional Setup
 
