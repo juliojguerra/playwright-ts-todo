@@ -1,3 +1,8 @@
 {
-  "todos": ["item1", "item2", "item3", "item4"]
+  "todos": [
+    "complete challenge",
+    "send email",
+    "prepare food",
+    "go to the movies"
+  ]
 }
